@@ -1,0 +1,31 @@
+_repo: John-Henry-SmithA-Humorous-Romance-of-Outdoor-Life_15247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Frederick Upham
+    alias: Adams, Frederick U. (Frederick Upham)
+    birthdate: 1859
+    deathdate: 1921
+    gutenberg_agent_id: '5942'
+    url: http://www.gutenberg.org/2009/agents/5942
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Upham_Adams
+description: ''
+gutenberg_issued: '2005-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Outdoor life -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+title: 'John Henry Smith
+
+  A Humorous Romance of Outdoor Life'
+url: http://www.gutenberg.org/ebooks/15247
