@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5942
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Upham_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15247#John-Henry-SmithA-Humorous-Romance-of-Outdoor-Life
 gutenberg_issued: '2005-03-03'
 gutenberg_type: Text
 identifiers:
